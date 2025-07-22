@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Sander and I'm a Fullstack Developer, from 🇧🇷</p>
+<p align="left">My name is Sander and I'm a Fullstack Developer, from Brazil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">full-stack developer focused on frontend, passionate about creating interfaces that combine functionality with clean design. I have experience with React, Unity and .NET APIs, and I enjoy working on both code and user experience.</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
