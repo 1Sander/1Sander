@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 I'm Sander</h1>
 
 <p align="left">
-  Full-Stack Software Developer from Brazil 🇧🇷<br>
-  Passionate about building scalable systems and clean, user-centered interfaces.
+Full-Stack Software Engineer from Brazil 🇧🇷 <br>
+Specialized in building scalable web applications using <strong>Angular, React and .NET</strong>.
 </p>
 
 ---
@@ -10,22 +10,27 @@
 <h2 align="left">👨‍💻 About me</h2>
 
 <p align="left">
-I am a <strong>Full-Stack Developer</strong> with a bachelor's degree in <strong>Information Systems</strong> from <strong>UNEB</strong> and over <strong>5 years of experience</strong> in software development.
+I’m a <strong>Full-Stack Software Engineer</strong> with a Bachelor's degree in <strong>Information Systems</strong> from <strong>UNEB</strong> and experience developing modern web applications and APIs.
 <br><br>
-I specialize in creating applications that balance <strong>performance, usability, and clean design</strong>. I have solid experience working with <strong>React, Angular, SQL, Java, C#, and .NET APIs</strong>, enjoying both backend architecture and frontend user experience.
+
+My main focus is building <strong>scalable systems, clean architectures and user-focused interfaces</strong>. I enjoy working across the full stack — from designing efficient backend services to creating intuitive frontend experiences.
 <br><br>
-I’ve participated in <strong>large-scale projects through a Junior Enterprise</strong>, collaborating in multidisciplinary teams and contributing from planning to delivery.
+
+I have professional experience working with technologies such as <strong>Angular, React, TypeScript, .NET, Node.js and SQL databases</strong>, contributing to real-world projects through a Junior Enterprise and collaborative development environments.
+<br><br>
+
+I’m passionate about <strong>clean code, system architecture, automation and building impactful products</strong>.
 </p>
 
 ---
 
-<h2 align="left">🚀 What I’m up to</h2>
+<h2 align="left">🚀 What I’m working on</h2>
 
 <p align="left">
-✨ Building solutions and breaking bugs since 2020<br>
-📚 Currently improving my skills in system architecture and modern frontend patterns<br>
-🎯 Goal: create impactful products with clean code and great UX<br>
-🎲 Fun fact: I enjoy working on UI details as much as backend logic
+💻 Building scalable full-stack applications <br>
+📚 Studying system architecture, backend design and modern frontend patterns <br>
+⚙️ Creating automation systems and API integrations <br>
+🌍 Open to remote opportunities and global collaboration
 </p>
 
 ---
